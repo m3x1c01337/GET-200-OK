@@ -1,14 +1,14 @@
-GET 200 OK TOOL!
+<h1>GET 200 OK TOOL!</h1>
 
-Requirements
-	sudo apt update
-	sudo apt install python3.8
-	sudo pip install -r requirements.txt
-	sudo apt upgrade
+<p><b>Requirements</p></b>
+	<p>sudo apt update</p>
+	<p>sudo apt install python3.8</p>
+	<p>sudo pip install -r requirements.txt</p>
+	<p>sudo apt upgrade</p>
+<br>
+<p><b>Usage</p></b>
+	<p>python3 finder.py</p>
 
-Usage
-	python3 finder.py
-
-by m3x1c01337.
+<p>by m3x1c01337 & Alistem.</p>
 
 
