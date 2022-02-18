@@ -9,6 +9,8 @@
 <p><b>Usage</p></b>
 	<p>python3 finder.py</p>
 
+<br>
+<p><b>Credits</p></b>
 <p>by m3x1c01337 & Alistem.</p>
 
 
