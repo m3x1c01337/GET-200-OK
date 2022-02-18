@@ -11,6 +11,6 @@
 
 <br>
 <p><b>Credits</p></b>
-<p>by m3x1c01337 & Alistem.</p>
+<p>by m3x1c01337 & alistem007.</p>
 
 
